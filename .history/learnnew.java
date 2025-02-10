@@ -1,4 +1,4 @@
 import java.applet.*;
 public class learnnew {
-    String a = "ee";
+    String a = "sa";
 }
